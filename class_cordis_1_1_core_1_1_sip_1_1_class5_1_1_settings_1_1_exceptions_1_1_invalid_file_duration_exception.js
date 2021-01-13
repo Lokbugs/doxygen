@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_invalid_file_duration_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_invalid_file_duration_exception.html#a39a9ef82d265032723df4a24fd475b83", null ]
+];

@@ -1,0 +1,6 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_i_additional_forwarding_repository =
+[
+    [ "GetByDomainIdAndTransferNumberAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_i_additional_forwarding_repository.html#aeb0696eeaa5798e330d1c4743ae45ee6", null ],
+    [ "GetByPhoneNumberIdsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_i_additional_forwarding_repository.html#aae8453e18387fcf242f0987f51303423", null ],
+    [ "UpdateTransferNumberAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_i_additional_forwarding_repository.html#a29501e3529d835dddb7df46f832668bd", null ]
+];

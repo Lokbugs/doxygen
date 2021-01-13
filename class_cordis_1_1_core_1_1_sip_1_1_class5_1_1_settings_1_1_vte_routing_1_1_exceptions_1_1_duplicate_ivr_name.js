@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_exceptions_1_1_duplicate_ivr_name =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_exceptions_1_1_duplicate_ivr_name.html#a55ed9ee99b649cf71f8fc7cc7f30cba2", null ]
+];

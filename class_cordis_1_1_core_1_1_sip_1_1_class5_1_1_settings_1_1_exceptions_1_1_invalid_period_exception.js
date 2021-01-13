@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_invalid_period_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_invalid_period_exception.html#a2287cdf4f1f4a99161d3bd276ce8a8fe", null ]
+];

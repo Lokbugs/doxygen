@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_external_number_service =
+[
+    [ "GetByVteIdAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_external_number_service.html#a5bd3a768f05c281cef0f8949cbbaadef", null ]
+];

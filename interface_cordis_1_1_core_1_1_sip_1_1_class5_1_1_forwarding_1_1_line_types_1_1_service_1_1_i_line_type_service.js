@@ -1,0 +1,5 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_line_types_1_1_service_1_1_i_line_type_service =
+[
+    [ "GetLineTypeBySimId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_line_types_1_1_service_1_1_i_line_type_service.html#a057d82215363c91aa2533a272a26f19a", null ],
+    [ "GetLineTypeCodeByAbonentId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_line_types_1_1_service_1_1_i_line_type_service.html#ae04905c8b1b6e790392a1ebda890c358", null ]
+];

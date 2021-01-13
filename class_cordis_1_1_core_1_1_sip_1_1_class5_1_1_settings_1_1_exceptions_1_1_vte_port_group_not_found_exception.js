@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_vte_port_group_not_found_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_vte_port_group_not_found_exception.html#ad5f9312e173077efde3fea7139b12858", null ]
+];

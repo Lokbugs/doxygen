@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_data_model_1_1_redirect_to_ivr =
+[
+    [ "IvrName", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_data_model_1_1_redirect_to_ivr.html#a43fddf66af9a8a1d9936b966c494c026", null ]
+];

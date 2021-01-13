@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_melody_used_in_ivr_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_melody_used_in_ivr_exception.html#a6e22d6f78f5ea1416f344ae31e7897f7", null ]
+];

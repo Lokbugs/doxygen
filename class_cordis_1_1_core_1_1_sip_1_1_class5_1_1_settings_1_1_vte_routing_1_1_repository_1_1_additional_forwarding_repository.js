@@ -1,0 +1,8 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_additional_forwarding_repository =
+[
+    [ "AdditionalForwardingRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_additional_forwarding_repository.html#a9f9c25b4029a3b0d6d54bbf6dcd04147", null ],
+    [ "GetByDomainIdAndTransferNumberAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_additional_forwarding_repository.html#ae8d3c962a90e58595821b7ef9f4a4ede", null ],
+    [ "GetByPhoneNumberIdsAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_additional_forwarding_repository.html#a943ce4ef2508d269fd89b4d662c1199f", null ],
+    [ "UpdateTransferNumberAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_additional_forwarding_repository.html#a542cb1a3c168f8a32c3f9999d73190e5", null ],
+    [ "_sqlService", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_additional_forwarding_repository.html#a2661c1e003ae9d05faa1ca1cf563815f", null ]
+];

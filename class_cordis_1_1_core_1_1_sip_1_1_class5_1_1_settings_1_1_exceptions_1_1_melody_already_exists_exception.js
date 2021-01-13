@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_melody_already_exists_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_melody_already_exists_exception.html#af6e403d941ca75f3d97fd16b24d74c8f", null ]
+];

@@ -1,0 +1,9 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_rtu_query_service =
+[
+    [ "DeleteCallRecordByCallIdAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_rtu_query_service.html#abe8877d21db66d5f8e665cf1dfb97a8c", null ],
+    [ "FixFollowMeScriptAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_rtu_query_service.html#ad51b104cbc97db12c3a34d519e245c15", null ],
+    [ "GetCallRecordsByConfIdAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_rtu_query_service.html#a74aefaf03e25b8edb426ba7a343c5f3f", null ],
+    [ "GetCallRecordsByStartTimeAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_rtu_query_service.html#ae19b2fefe3c17650523a0759c9e7900b", null ],
+    [ "GetPromptsByNameAndCategoryAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_rtu_query_service.html#adf99f43994567bf5630aa480eb00d8b6", null ],
+    [ "GetSizeCallRecordByCallIdAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_rtu_query_service.html#a813ee388c65ff1e95b929905dd139f43", null ]
+];

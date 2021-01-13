@@ -1,0 +1,4 @@
+var namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_phone_numbers_1_1_service =
+[
+    [ "PhoneNumberService", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_phone_numbers_1_1_service_1_1_phone_number_service.html", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_phone_numbers_1_1_service_1_1_phone_number_service" ]
+];

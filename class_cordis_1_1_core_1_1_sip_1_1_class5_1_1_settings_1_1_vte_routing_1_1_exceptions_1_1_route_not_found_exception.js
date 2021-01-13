@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_exceptions_1_1_route_not_found_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_exceptions_1_1_route_not_found_exception.html#a239ced28f0f6ee8e251c194d63e72a8d", null ]
+];

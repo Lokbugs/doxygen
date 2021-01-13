@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_call_infos_1_1_extensions_1_1_call_info_sync_extension =
+[
+    [ "AsTableValue", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_call_infos_1_1_extensions_1_1_call_info_sync_extension.html#a9e8b7c0b25ad386a6df88c465579f1a3", null ]
+];

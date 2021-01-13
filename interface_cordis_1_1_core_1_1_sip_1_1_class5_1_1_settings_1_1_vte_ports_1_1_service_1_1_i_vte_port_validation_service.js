@@ -1,0 +1,17 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service =
+[
+    [ "ValidateDomainIdAndPhoneNumberIdAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a3f6fd762eb73b1fd2f26d9baccb12fad", null ],
+    [ "ValidateEmail", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#ab51dd5ae32f74ec883905adfcd3f0a82", null ],
+    [ "ValidateExistsNumberAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#add2ddf2edc8717f12a2d24aeff34cb5d", null ],
+    [ "ValidateIndexNumberAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#aafaa9df5aa2675ded9eb7b9cd88fb34f", null ],
+    [ "ValidateMem", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a21a4b47a86095dc00d1e008174aaa18a", null ],
+    [ "ValidateMobilePhone", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#aab242e4a27626ade3521fcb15dc68c96", null ],
+    [ "ValidateNumberIsInRange", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a32109dc78fa9a95c4ebcff7bdb16bc5d", null ],
+    [ "ValidateSetAllowedSubnetsListParamsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a377959efa4dd634c5d167395d3bc4808", null ],
+    [ "ValidateSetSipPasswordParamsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a1fa823a77dd2f5aa756a312a0c96244d", null ],
+    [ "ValidateSetVgwPortParamsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a656f7340c6bc84f63c0e51e8b9eae4ec", null ],
+    [ "ValidateUserGroupIdsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a1dc202bd623cfd9fae9d39c303297a2e", null ],
+    [ "ValidateUserNameAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a8bc7fa807096061002ce94da93cc4aff", null ],
+    [ "ValidateUserOnDeleteAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#ae3382aa513758899eb19c9d30a3e3ed9", null ],
+    [ "ValidateVteGroupPortSettings", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_service_1_1_i_vte_port_validation_service.html#a0aac1bf55c08449796cfd89997a6504b", null ]
+];

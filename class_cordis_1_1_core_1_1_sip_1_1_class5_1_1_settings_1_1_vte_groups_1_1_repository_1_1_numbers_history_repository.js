@@ -1,0 +1,6 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_repository_1_1_numbers_history_repository =
+[
+    [ "NumbersHistoryRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_repository_1_1_numbers_history_repository.html#a6eb309c5bab4de83242905ccda015e55", null ],
+    [ "CreateAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_repository_1_1_numbers_history_repository.html#af4e91f9a56cd3c089533581e65a68c7d", null ],
+    [ "_sqlService", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_repository_1_1_numbers_history_repository.html#af49dbca911e6f9beeb7e61be0eafcbef", null ]
+];

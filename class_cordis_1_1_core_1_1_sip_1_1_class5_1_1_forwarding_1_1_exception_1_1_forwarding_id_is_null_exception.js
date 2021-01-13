@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_exception_1_1_forwarding_id_is_null_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_exception_1_1_forwarding_id_is_null_exception.html#a996aacfc9598cbf54c4ee2fd10b5f4fc", null ]
+];

@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_i_user_repository =
+[
+    [ "CreateDefaultAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_i_user_repository.html#a1ce136d7b5b7b7d4c0b0b8c3fe34f051", null ]
+];

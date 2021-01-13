@@ -1,0 +1,6 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_user_a52d3ace31633b6953be3d838536a261 =
+[
+    [ "CreateAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_user_a52d3ace31633b6953be3d838536a261.html#a9e0c689c837c32dc04d936076f90d2cc", null ],
+    [ "DeleteAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_user_a52d3ace31633b6953be3d838536a261.html#ab7a473b3b29a85753fd83f9f675fb0d9", null ],
+    [ "UpdateAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_user_a52d3ace31633b6953be3d838536a261.html#a6ab7ca6ef8a85fe100cced0e699b1dea", null ]
+];

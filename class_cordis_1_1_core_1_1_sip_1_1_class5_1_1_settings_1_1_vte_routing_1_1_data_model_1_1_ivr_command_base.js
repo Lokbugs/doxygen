@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_data_model_1_1_ivr_command_base =
+[
+    [ "Action", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_data_model_1_1_ivr_command_base.html#a8ff91f7a358bd3e84bf3e563d493bed0", null ]
+];

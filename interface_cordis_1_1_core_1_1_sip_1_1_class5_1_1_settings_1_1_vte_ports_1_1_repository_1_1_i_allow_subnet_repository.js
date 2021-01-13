@@ -1,0 +1,18 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository =
+[
+    [ "CreateAllowedSubnets", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a25d50a57ac376647e1fdc20bcc5f79cb", null ],
+    [ "CreateAllowedSubnetsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a7a7d5078b4b831c6e269479252c0f8dc", null ],
+    [ "CreateAllowedSubnetsList", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a140ea637f0368d6a9e3d909ce9c0e4f6", null ],
+    [ "CreateAllowedSubnetsListForVtePortsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a6471f6b6c935850b3622b46baf68b536", null ],
+    [ "DeleteAllowedSubnets", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#ac4bec20fa73a309f7d37104dddb31a98", null ],
+    [ "DeleteAllowedSubnetsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a059eca41a16b97ade70a6dd324fe5693", null ],
+    [ "DeleteAllowedSubnetsList", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#ae7ca15480e881bd6a20ba67375b4cc89", null ],
+    [ "DeleteAllowedSubnetsListAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#add9f56e52bb92eeccc70a64876c0bd5c", null ],
+    [ "GetAllowedSubnetsList", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a5465ae20b5bcc2b19fe0fad412fa775d", null ],
+    [ "GetAllowedSubnetsListByVtePortAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a044b5d2eb4edaef748c34d0f2a0387dd", null ],
+    [ "GetAllowedSubnetsListIdByCode", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a42761d573f8f8b0eb1ca0f4907d20185", null ],
+    [ "GetAllowedSubnetsListIdByCodeAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a34710b7a65b55d328a9c56e64142b208", null ],
+    [ "SetAllowedSubnetsListIdToNullAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a0e5625e4e51b9badc8c3a8c8445e93ab", null ],
+    [ "UpdateAllowedSubnetsListId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a82ebb140ab3e1a4c0564ebd89b8f8e08", null ],
+    [ "UpdateAllowedSubnetsListIdForVtePortsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_ports_1_1_repository_1_1_i_allow_subnet_repository.html#a419452571b8f8218d79a1103faf94044", null ]
+];

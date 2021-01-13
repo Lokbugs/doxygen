@@ -1,0 +1,5 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_timetable_validation_service =
+[
+    [ "IsTimetablesCoverAllWeek", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_timetable_validation_service.html#a0e7852a7b71e5b2b649151b9ddc5ea01", null ],
+    [ "ValidateTimetableIntersect", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_timetable_validation_service.html#ab189a8fa721bb140af8f63cad23bc07e", null ]
+];

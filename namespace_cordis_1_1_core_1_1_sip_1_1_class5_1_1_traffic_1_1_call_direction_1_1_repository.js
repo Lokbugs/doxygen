@@ -1,0 +1,5 @@
+var namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_call_direction_1_1_repository =
+[
+    [ "DirectionRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_call_direction_1_1_repository_1_1_direction_repository.html", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_call_direction_1_1_repository_1_1_direction_repository" ],
+    [ "IDirectionRepository", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_call_direction_1_1_repository_1_1_i_direction_repository.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_call_direction_1_1_repository_1_1_i_direction_repository" ]
+];

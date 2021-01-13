@@ -1,0 +1,5 @@
+var namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_melodies_1_1_repository =
+[
+    [ "IMelodyRepository", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_melodies_1_1_repository_1_1_i_melody_repository.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_melodies_1_1_repository_1_1_i_melody_repository" ],
+    [ "MelodyRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_melodies_1_1_repository_1_1_melody_repository.html", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_melodies_1_1_repository_1_1_melody_repository" ]
+];

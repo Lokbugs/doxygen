@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_number_already_exists_or_out_of_range_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_number_already_exists_or_out_of_range_exception.html#a11c91377802d145f45f074ca82e50422", null ]
+];

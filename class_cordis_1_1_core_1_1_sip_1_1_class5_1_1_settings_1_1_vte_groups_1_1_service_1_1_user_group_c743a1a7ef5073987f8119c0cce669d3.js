@@ -1,0 +1,10 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3 =
+[
+    [ "UserGroupNotSequentialConfigureService", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3.html#ac79348a468f73fffaeda5d75865b51f3", null ],
+    [ "CreateAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3.html#a0283795dc5e3997b661615f9f0866e72", null ],
+    [ "DeleteAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3.html#a603b588094405af8ea0b7731b9e4a8fb", null ],
+    [ "UpdateAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3.html#a311a8f5bcdaf38a59834b9d3499f576f", null ],
+    [ "_baseRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3.html#a454e7bc219243efaef94f594752f85a2", null ],
+    [ "_userRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3.html#a7fbe016aea2bcb58630f6c48f44a9ff8", null ],
+    [ "_vtePortRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_user_group_c743a1a7ef5073987f8119c0cce669d3.html#ad7e3dcf62df8eb896559875414002a7d", null ]
+];

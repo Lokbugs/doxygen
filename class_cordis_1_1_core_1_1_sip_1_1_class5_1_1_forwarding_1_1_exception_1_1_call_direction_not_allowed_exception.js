@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_exception_1_1_call_direction_not_allowed_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_exception_1_1_call_direction_not_allowed_exception.html#adc3651050107a238a3cf8bc98a7216f5", null ]
+];

@@ -1,0 +1,27 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository =
+[
+    [ "CreateAdditionalForwarding", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a1e3a98e018c08acf7967ad07bf5834f7", null ],
+    [ "CreateTimeTable", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a137725aa70d854e7f84100b38212881f", null ],
+    [ "CreateTimeTableWeekDay", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a5e17d87864bd9bdf88eba100aa64bc18", null ],
+    [ "DeleteAdditionalForwardingById", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a55951a351a9590a785af81d0696ba745", null ],
+    [ "DeleteAllAdditionalForwardingsByTimeTableId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#ab83024662d1ba3cdb4cdbd659f91e322", null ],
+    [ "DeleteForwardingStatus", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a3a6a7fbb4e623a267d4bf538ae313878", null ],
+    [ "DeleteTimeTableById", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a4b2d06c5b6d2054881d79db3b8ce045a", null ],
+    [ "DeleteTimeTableWeekDay", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a2f2f5ee30a5c2cba5db0353a0129e1c5", null ],
+    [ "GetAll", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#ac7f7fad4bc580330bfbd4b397304f55b", null ],
+    [ "GetByContract", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#ad0ae81fcdd3e3c55e1b215cc31577398", null ],
+    [ "GetByPhoneNumber", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a92303fd2278fabdaa39ffa70ce9e2055", null ],
+    [ "GetByUserId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a8de08bc35e23419f8ae9a25a3bb9c647", null ],
+    [ "GetByUserIdAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a9db7b0bb0eb28fadb40425cbc6789ee7", null ],
+    [ "GetByVatsAndDestination", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a9d26ace915968322b397584969384968", null ],
+    [ "GetByVatsAndDestinationAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a40ef6c60fa29122299f15fd573d9f29c", null ],
+    [ "GetByVteId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#ab25db4a28063fd11e378a7ed14aef534", null ],
+    [ "GetForwardingIdCopyIdPairs", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a1d8da0b148ac44cec06c8859940407ae", null ],
+    [ "GetPhoneNumberSimId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#ace6635e6d082ed07b366c7f9742db5cd", null ],
+    [ "GetTimetableIdsByAdditionalForwardingIds", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a47a4e2b42c083c3a56c2f3e9d4e9872f", null ],
+    [ "GetVteSimId", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a78aa92582752e0408f4351d202843991", null ],
+    [ "IsUserIdBelongsToPort", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#aa4e6d6d117ea840bd5e3b06f5bd0c043", null ],
+    [ "Log", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#a30b313ba85ac70fd992941c744cb0c02", null ],
+    [ "UpdateAdditionalForwarding", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#add43e6a687c2bbfc045a6ded657e5493", null ],
+    [ "UpdateTimeTable", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_repository_1_1_i_forwarding_repository.html#adb0287700b8853a01d8286e51dd14c66", null ]
+];

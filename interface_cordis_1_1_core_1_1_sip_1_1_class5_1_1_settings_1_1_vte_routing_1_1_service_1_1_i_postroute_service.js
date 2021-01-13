@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_postroute_service =
+[
+    [ "CreateAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_postroute_service.html#a8ba75f7abb4acdd12f7323550f7f74a3", null ]
+];

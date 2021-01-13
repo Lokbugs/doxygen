@@ -1,0 +1,7 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_call_infos_1_1_helpers_1_1_i_call_info_sync_helper =
+[
+    [ "FormCallInfosToAddAndUpdate", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_call_infos_1_1_helpers_1_1_i_call_info_sync_helper.html#a5f08503d1edc650fec75db232f3fd2b9", null ],
+    [ "FormCallRecordIdsToDelete", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_call_infos_1_1_helpers_1_1_i_call_info_sync_helper.html#a589259ae5b968cf5f9c6beaaf5c58617", null ],
+    [ "FormCallRecordsToAdd", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_call_infos_1_1_helpers_1_1_i_call_info_sync_helper.html#a6526008d9531d427a208fbc9ce2b3340", null ],
+    [ "callInfosToAdd", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_call_infos_1_1_helpers_1_1_i_call_info_sync_helper.html#a02477b903fdfea4ec0da4edf15296dd4", null ]
+];

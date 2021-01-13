@@ -1,0 +1,5 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_web_settings_service =
+[
+    [ "GetRtuAdditionalServiceSettingsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_web_settings_service.html#ab97a3a2a9b129ac5c6c5ac6232d8fa0a", null ],
+    [ "GetRtuSettingsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_rtu_commands_1_1_service_1_1_i_web_settings_service.html#a06b33256ed5e9417e34958d77536b3f7", null ]
+];

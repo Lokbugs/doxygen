@@ -1,0 +1,5 @@
+var namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_repository =
+[
+    [ "BaseRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_repository_1_1_base_repository.html", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_repository_1_1_base_repository" ],
+    [ "IBaseRepository", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_repository_1_1_i_base_repository.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_repository_1_1_i_base_repository" ]
+];

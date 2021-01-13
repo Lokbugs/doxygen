@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_exception_1_1_invalid_number_type_exception =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_forwarding_1_1_exception_1_1_invalid_number_type_exception.html#a8cfd1564e2a6b429e181b64924766ea3", null ]
+];

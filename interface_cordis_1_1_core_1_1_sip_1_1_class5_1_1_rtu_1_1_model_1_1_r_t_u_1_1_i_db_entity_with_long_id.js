@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_rtu_1_1_model_1_1_r_t_u_1_1_i_db_entity_with_long_id =
+[
+    [ "Id", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_rtu_1_1_model_1_1_r_t_u_1_1_i_db_entity_with_long_id.html#acefe44899ae47beb3e185c9d2199295f", null ]
+];

@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_user_group_service =
+[
+    [ "SetUserGroupsAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_user_group_service.html#ae8be68c585bb61d1775d6dfec2bb576a", null ]
+];

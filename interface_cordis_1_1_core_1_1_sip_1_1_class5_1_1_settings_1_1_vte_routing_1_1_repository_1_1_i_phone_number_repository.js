@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_i_phone_number_repository =
+[
+    [ "GetByAdditionalForwardingIds", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository_1_1_i_phone_number_repository.html#a7977674dc31fd9d4f9f16b532addb651", null ]
+];

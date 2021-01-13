@@ -1,0 +1,6 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_user2_user_group_repository =
+[
+    [ "User2UserGroupRepository", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_user2_user_group_repository.html#aca93bc9b8033c78cd9d9a8aee4c082c3", null ],
+    [ "GetMaxPriorityByUserGroupIdsAsync", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_user2_user_group_repository.html#a0928c7390187dc8167b35a8c80ca4a59", null ],
+    [ "_sqlService", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_user2_user_group_repository.html#a4c0d37280e5ce41eb25f0d0ac0a8686b", null ]
+];

@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_i_access_group_repository =
+[
+    [ "GetIdsByNamesAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vtes_1_1_repository_1_1_i_access_group_repository.html#acb4d6f9572d5e80967b36a31722f9288", null ]
+];

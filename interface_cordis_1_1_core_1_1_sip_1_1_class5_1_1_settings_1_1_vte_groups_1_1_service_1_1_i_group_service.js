@@ -1,0 +1,4 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_group_service =
+[
+    [ "CreateAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_groups_1_1_service_1_1_i_group_service.html#abae319bce8f39269b7a2b1a961826ef6", null ]
+];

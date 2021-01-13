@@ -1,0 +1,6 @@
+var interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_additional_forwarding_service =
+[
+    [ "CreateAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_additional_forwarding_service.html#ae4b80fef9b7a15689b3370dea5271d61", null ],
+    [ "DeleteAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_additional_forwarding_service.html#a9b42c21023a8e9061db6d5c19d47fcb1", null ],
+    [ "UpdateAsync", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service_1_1_i_additional_forwarding_service.html#aee45cc043214a756154c114155f8ce76", null ]
+];

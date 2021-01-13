@@ -1,0 +1,10 @@
+var namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface =
+[
+    [ "ICallInfoService", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_call_info_service.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_call_info_service" ],
+    [ "IMelodyService", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_melody_service.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_melody_service" ],
+    [ "IPhoneNumberService", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_phone_number_service.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_phone_number_service" ],
+    [ "IVteExternalNumberService", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_external_number_service.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_external_number_service" ],
+    [ "IVteGroupService", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_group_service.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_group_service" ],
+    [ "IVtePortService", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_port_service.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_port_service" ],
+    [ "IVteService", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_service.html", "interface_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_interface_1_1_i_vte_service" ]
+];

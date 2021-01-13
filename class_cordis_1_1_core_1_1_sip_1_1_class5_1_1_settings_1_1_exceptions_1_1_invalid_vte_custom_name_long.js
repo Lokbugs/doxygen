@@ -1,0 +1,4 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_invalid_vte_custom_name_long =
+[
+    [ "Message", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_exceptions_1_1_invalid_vte_custom_name_long.html#a2f8cbabd88aedfc6d9567f15ee0c2aca", null ]
+];

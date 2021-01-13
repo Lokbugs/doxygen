@@ -1,0 +1,8 @@
+var namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing =
+[
+    [ "DataModel", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_data_model.html", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_data_model" ],
+    [ "Exceptions", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_exceptions.html", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_exceptions" ],
+    [ "Interface", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_interface.html", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_interface" ],
+    [ "Repository", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository.html", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_repository" ],
+    [ "Service", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service.html", "namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_settings_1_1_vte_routing_1_1_service" ]
+];

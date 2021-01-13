@@ -1,0 +1,4 @@
+var namespace_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_detailing_1_1_exceptions =
+[
+    [ "VoiceDetailingTimeoutException", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_detailing_1_1_exceptions_1_1_voice_detailing_timeout_exception.html", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_traffic_1_1_detailing_1_1_exceptions_1_1_voice_detailing_timeout_exception" ]
+];

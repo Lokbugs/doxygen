@@ -1,0 +1,5 @@
+var class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_rtu_1_1_model_1_1_r_t_u_1_1_mass_calling_service_client_number =
+[
+    [ "MassCallingServiceId", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_rtu_1_1_model_1_1_r_t_u_1_1_mass_calling_service_client_number.html#ad56f0ee85331ff0f235c13463a02b6c2", null ],
+    [ "Number", "class_cordis_1_1_core_1_1_sip_1_1_class5_1_1_rtu_1_1_model_1_1_r_t_u_1_1_mass_calling_service_client_number.html#a383fee85dd061dd7d36389a4b26f2372", null ]
+];
